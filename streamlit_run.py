@@ -1,4 +1,4 @@
-%%writefile streamlit_app.py
+
 import streamlit as st
 from pathlib import Path
 from datetime import datetime
